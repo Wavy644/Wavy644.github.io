@@ -1,0 +1,34 @@
+* {
+  background-color: darkviolet; 
+  color: yellow;
+}
+
+
+h1 {
+  text-align: center;
+  font-size: 400%;
+}
+
+img {
+  border: solid 10px limegreen;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h3 {
+  color: red;
+  text-align: center;
+}
+
+div {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+a.info {
+  color: orange;
+  font-weight: 100;
+}
